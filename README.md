@@ -107,3 +107,6 @@ Restaurant review page, user can browse best rated restaurant, creat profile and
 /api/users/<int:user_id>/ GET: get a specific user profile.
 
 
+
+Data base design: 
+![alt text] (https://github.com/majki97/Luna/blob/master/backend/RecipeCookbookApp.png "Logo Title Text 1")
