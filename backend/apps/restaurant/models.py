@@ -31,7 +31,7 @@ class Restaurant(models.Model):
         (5, 'Italy'),
         (6, 'Poland'),
         (7, 'Slovakia'),
-        (8, 'Buffet')
+        (8, 'International')
     ]
     country = models.IntegerField(choices=COUNTRY_CHOICES, default=1)
     city = models.CharField(max_length=100)
