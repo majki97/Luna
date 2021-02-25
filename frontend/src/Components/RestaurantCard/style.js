@@ -4,7 +4,6 @@ export const RestaurantStyle = styled.section`
 width: 271px;
 height:410px;
 margin:20px;
-//padding-bottom:30px;
 background-color:${props => props.theme.whiteColor};
 border: 1px solid #EBEBEB;
 border-top: 8px solid ${props => props.theme.mainColor};
